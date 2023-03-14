@@ -1,6 +1,6 @@
 <div align="left">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeauto&height=200&section=header&text=HoSung%20Kim&fontColor=fcba03&fontSize=90&fontAlign=62&fontAlignY=32&desc=ho_velop&descSize=25&descAlign=85&descAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeauto&height=200&section=header&text=HoSung%20Kim&fontColor=646464&fontSize=90&fontAlign=62&fontAlignY=32&desc=ho_velop&descSize=25&descAlign=85&descAlignY=50)
 
 <h3 align="left">🛠 Teck Stack 🛠</h3>
 <p align="left" >
