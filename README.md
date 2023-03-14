@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeauto&height=200&section=header&text=HoSung%20Kim&fontColor=fcba03&fontSize=90&fontAlign=62&fontAlignY=32&desc=ho_velop&descSize=25&descAlign=85&descAlignY=50)
 
@@ -24,8 +24,8 @@
 </p>
 
 
-<h3 align="center"> 🎳 About Me 🎳 </h3>
-<p align="center">
+<h3 align="left"> 🎳 About Me 🎳 </h3>
+<p align="left">
   <a href="https://velog.io/@hack_ho"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@kyu0918"/></a>&nbsp
   <a href="https://www.instagram.com/k_hosuxg/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/bowling_kyu/"/></a>&nbsp
  </a>&nbsp
