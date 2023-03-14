@@ -2,8 +2,8 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeauto&height=200&section=header&text=HoSung%20Kim&fontColor=fcba03&fontSize=90&fontAlign=62&fontAlignY=32&desc=ho_velop&descSize=25&descAlign=85&descAlignY=50)
 
-<h3 align="center">🛠 Teck Stack 🛠</h3>
-<p align="center">
+<h3 align="left">🛠 Teck Stack 🛠</h3>
+<p align="left" >
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=#3776AB"/></a>&nbsp
   <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=Markdown&logoColor=white"/>
