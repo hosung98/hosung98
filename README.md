@@ -2,7 +2,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeauto&height=200&section=header&text=HoSung%20Kim&fontColor=dcdcdc&fontSize=80&fontAlign=62&fontAlignY=32&desc=&descSize=25&descAlign=85&descAlignY=50)
 
-<h3 align="left">🛠 Teck Stack 🛠</h3>
+<h3 align="left">🛠 Web Teck Stack 🛠</h3>
 <p align="left" >
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
@@ -22,6 +22,7 @@
   <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
   <br>
+  <h3 align="left">🛠 Web Teck Stack 🛠</h3>  
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp
