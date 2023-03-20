@@ -1,7 +1,7 @@
 <div align="left">
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeauto&height=200&section=header&text=HoSung%20Kim&fontColor=dcdcdc&fontSize=80&fontAlign=63&fontAlignY=32&desc=BackendDeveloper&descSize=25&descAlign=85&descAlignY=50)
-
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=6810779s&show_icons=true&theme=tokyonight)
 <h3 align="left">🛠 Web Teck Stack 🛠</h3>
 <p align="left" >
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp
@@ -34,7 +34,7 @@
 </p>
 
 <br>
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=6810779s&show_icons=true&theme=tokyonight)
+
 
 
 
