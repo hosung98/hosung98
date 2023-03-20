@@ -31,9 +31,8 @@
   <a href="https://velog.io/@hack_ho"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@kyu0918"/></a>&nbsp
   <a href="https://www.instagram.com/k_hosuxg/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/bowling_kyu/"/></a>&nbsp
  </a>&nbsp
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hosung98&show_icons=true&theme=radical)
 </p>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hosung98&show_icons=true&theme=radical)
 <br>
 
 
