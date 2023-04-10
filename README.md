@@ -32,6 +32,8 @@
  </a>&nbsp
 </p>
 <br>
+
+</div>
+<div align="center">
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=hosung98&show_icons=true)
 </div>
-
