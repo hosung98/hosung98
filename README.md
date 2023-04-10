@@ -1,6 +1,6 @@
 <div align="left">
   
-<img width="100%" heigth="100px" src="https://user-images.githubusercontent.com/70985410/230830429-bff88636-54d7-43ca-a9e5-370dbfdb6ae0.jpg">
+<img width="50%" heigth="50%" src="https://user-images.githubusercontent.com/70985410/230830429-bff88636-54d7-43ca-a9e5-370dbfdb6ae0.jpg">
 
 
 <h3 align="left">🛠 Web Teck Stack 🛠</h3>
