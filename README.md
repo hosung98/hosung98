@@ -1,6 +1,7 @@
 <div align="left">
   
-![header](https://capsule-render.vercel.app/api?type=Soft&color=76819C&height=300&section=header&text=capsule%20render&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62)
+![profile](https://user-images.githubusercontent.com/70985410/230830429-bff88636-54d7-43ca-a9e5-370dbfdb6ae0.jpg)
+
 
 <h3 align="left">🛠 Web Teck Stack 🛠</h3>
 <p align="left" >
