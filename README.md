@@ -23,9 +23,9 @@
   <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=oracle&logoColor=white"/></a>&nbsp  &nbsp &nbsp 
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp  
-  ![Github Stats](https://github-readme-stats.vercel.app/api?username=biud436&show_icons=true)
+  
 </p>
-
+![Github Stats](https://github-readme-stats.vercel.app/api?username=biud436&show_icons=true)
 
 <h3 align="left"> 🙌 About Me 🙌 </h3>
 <p align="left">
