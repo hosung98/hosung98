@@ -2,6 +2,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Kim%20hosung&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer💻&descAlignY=51&descAlign=62)
 
+[Github Stats](https://github-readme-stats.vercel.app/api?username=biud436&show_icons=true)
 <h3 align="left">🛠 Web Teck Stack 🛠</h3>
 <p align="left" >
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp
