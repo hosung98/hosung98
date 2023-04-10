@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp  
   
 </p>
-![Github Stats](https://github-readme-stats.vercel.app/api?username=biud436&show_icons=true)
+
 
 <h3 align="left"> 🙌 About Me 🙌 </h3>
 <p align="left">
@@ -35,6 +35,7 @@
 </p>
 
 <br>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=biud436&show_icons=true)
 
 
 
