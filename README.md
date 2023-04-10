@@ -1,6 +1,6 @@
 <div align="left">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=00A5FF&height=300&section=header&text=Kim%20hosung&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer💻&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0064FF&height=300&section=header&text=Kim%20hosung&fontColor=EBFBFF&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer💻&descAlignY=51&descAlign=62)
 <h3 align="left">🛠 Web Teck Stack 🛠</h3>
 <p align="left" >
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp
