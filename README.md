@@ -31,13 +31,8 @@
   <a href="https://www.instagram.com/k_hosuxg/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/bowling_kyu/"/></a>&nbsp
  </a>&nbsp
 </p>
-![Github Stats](https://github-readme-stats.vercel.app/api?username=biud436&show_icons=true)
-
-
 <br>
-
-
-
 
 </div>
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=biud436&show_icons=true)
