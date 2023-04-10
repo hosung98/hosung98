@@ -1,6 +1,6 @@
 <div align="left">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Kim%20HoSung&fontSize=90&animation=fadeIn&fontAlignY=38&desc=BackEnd%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Kim%20HoSung&fontSize=90&animation=fadeIn&fontAlignY=38&desc=BackEnd%20 Developer&descAlignY=51&descAlign=62)
 
 <h3 align="left">🛠 Web Teck Stack 🛠</h3>
 <p align="left" >
