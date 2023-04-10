@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Kim%20hosung&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer💻&descAlignY=51&descAlign=62)
 <h3 align="left">🛠 Web Teck Stack 🛠</h3>
@@ -32,8 +32,6 @@
  </a>&nbsp
 </p>
 <br>
+(https://github-readme-stats.vercel.app/api?username=hosung98&show_icons=true)
+</div>
 
-</div>
-<div align="center">
-![Github Stats](https://github-readme-stats.vercel.app/api?username=hosung98&show_icons=true)
-</div>
