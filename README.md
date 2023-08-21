@@ -17,7 +17,6 @@
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/></a>&nbsp
   <br>
-    
   <h3 align="left">🛠 DB, VCS Teck Stack 🛠</h3>  
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=oracle&logoColor=white"/></a>&nbsp  &nbsp &nbsp 
