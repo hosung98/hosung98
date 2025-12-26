@@ -3,7 +3,7 @@
 
   
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=d2d2d2&height=300&section=header&text=Coffee↔Debug↔Repeat&fontColor=EBFBFF&fontSize=65&animation=fadeIn&fontAlignY=30&desc=KIM%20HOSUNG%20☕&descAlignY=51&descAlign=85)
+![header](https://capsule-render.vercel.app/api?type=waving&color=d2d2d2&height=300&section=header&text=Coffee↔Debug↔Repeat&fontColor=EBFBFF&fontSize=65&animation=fadeIn&fontAlignY=34&desc=KIM%20HOSUNG%20☕&descAlignY=53&descAlign=85)
 <h3 align="left"> Web Teck Stack </h3>
 <p align="left" >
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp
