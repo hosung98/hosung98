@@ -1,4 +1,4 @@
-### Extra shot of americano ☕️
+### Extra shot ☕️
 
 ### Stack
 
