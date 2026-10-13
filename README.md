@@ -1,11 +1,13 @@
+### Extra shot of americano ☕️
+
 ### Stack
 
-- **Backend:** Java, Spring Boot, Node.js, Express
-- **Frontend / Web:** JavaScript, React, HTML5, CSS3, jQuery
-- **Database:** MySQL, Oracle
-- **Tools:** Git, GitHub
+- **Backend:** Java (1.4 ~ 21), Kotlin, Spring Boot, Node.js, Express, JPA
+- **Frontend / Mobile:** JS (ES6+), React, RN
+- **DB:** MySQL, Postgres, Oracle, Redis
+- **DevOps & Infra:** Docker, K8s, Helm, Harbor, Jenkins, ArgoCD
+- **Tools:** Git, GitHub, GitLab, Slack, Figma, Jira
 
 ### Links
 
-- [Velog](https://velog.io/@hack_ho)
 - [Instagram](https://www.instagram.com/k_hosuxg/)
