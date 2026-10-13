@@ -1,4 +1,4 @@
-### Extra shot ☕️
+### Extra shot 
 
 ### Stack
 
